@@ -11,6 +11,8 @@ creator:
     gutenberg_agent_id: '9218'
     url: http://www.gutenberg.org/2009/agents/9218
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/20304#A-Trip-to-Paris-in-July-and-August-1792
 gutenberg_issued: '2007-01-07'
 gutenberg_type: Text
 identifiers:
